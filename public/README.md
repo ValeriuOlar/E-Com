@@ -1,3 +1,3 @@
 ## Copyright and License
 
-Copyright 2019 Valeriu Olariu - VStability.com
+Copyright 2019 - Valeriu Olariu - VStability.com
